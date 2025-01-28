@@ -1,0 +1,11 @@
+[
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#8e8533"
+      }
+    ]
+  }
+]
